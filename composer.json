@@ -12,9 +12,9 @@
     "require": {
         "php": "^8.0",
         "maximebf/debugbar": "^1.19",
-        "illuminate/routing": "^9|^10",
-        "illuminate/session": "^9|^10",
-        "illuminate/support": "^9|^10",
+        "illuminate/routing": "^9|^10|^11",
+        "illuminate/session": "^9|^10|^11",
+        "illuminate/support": "^9|^10|^11",
         "symfony/finder": "^6"
     },
     "require-dev": {
